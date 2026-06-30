@@ -53,9 +53,9 @@ class ATM {
 
         while (true) {
 
-            System.out.println("\n==============================");
+            System.out.println("\____________________________");
             System.out.println("         ATM MACHINE");
-            System.out.println("==============================");
+            System.out.println("____________________________");
             System.out.println("1. Check Balance");
             System.out.println("2. Deposit Money");
             System.out.println("3. Withdraw Money");
